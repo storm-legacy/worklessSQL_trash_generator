@@ -11,11 +11,11 @@ Just in case you didn't noticed - it's a python script, so you need Python inter
 Clone or Download >> `Download ZIP`
 ### Preperations
 Export it to your desktop or whatever and navigate with your terminal/cmd. <br />
-Open `config.py` with your favourite text editor and you're ready to go.
+Open `execute.py` with your favourite text editor and you're ready to go.
 
 ## Usage
 
--- After opening `config.py` --<br/>
+-- After opening `execute.py` --<br/>
 In `values` provide functions or values you wish to generate. <br />
 In `columns` specify names of following columns in your databse. <br />
 In `database_name` - it's obvious. <br />
@@ -27,8 +27,7 @@ Then `py execute.py` and collect your reward.
 ### Files
   `dataHandler.py` - store elements to draw from and manage `.txt` dependencies <br/>
   `func.py` - main module providing functions generating output <br/>
-  `script_config.py` - main configuration file for user specified data <br/>
-  `execute.py` - start script <br/>
+  `execute.py` - configure and start script <br/>
   
 ### Functions
 Module keyword `func` [exp. `func.rand_number(9)`]. <br/>
