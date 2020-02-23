@@ -54,5 +54,4 @@ If you want to set number element as string use str() function [exp. `str(func.r
 
 After your code is generated - put it simply to your DBMS, or just use phpmyadmin.
 
-### Contact
-If you wish to give me feedback, inform about mistakes or simply scold me go ahead and messenge me ^-^
+Let me know if you find any mistakes or errors. ^-^
